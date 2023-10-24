@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+h1 {
+ font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+h4 {
+
+    text-align: right;
+    font-style: italic;
+}
+
+p {
+   text-align: justify;
+}
+  
+p a{
+    color: blue;
+}
+    
