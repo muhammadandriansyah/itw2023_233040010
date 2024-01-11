@@ -6,7 +6,7 @@
 body {
     font-family: 'Rubik', sans-serif;
     overflow-x: hidden;
-    background-color: #0d1117;
+    background-color: #1b0202;
 }
 
 /* Navbar */
@@ -112,7 +112,7 @@ nav ul li a:hover {
 /* Ukuran Mobile */
 @media screen and (max-width: 576px) {
     .menu-toggle {
-        display: flex;
+        display: none;
     }
 
     nav ul li a {
@@ -138,4 +138,4 @@ nav ul li a:hover {
     nav ul.slide {
         transform: translateX(0);
     }
-}s
+}
